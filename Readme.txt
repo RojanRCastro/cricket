@@ -1,6 +1,6 @@
 1. Move the Bounce Marker
 	* Use W / A / S / D to position the marker on the pitch.
-	This determines where the ball will hit the ground.
+	* This determines where the ball will hit the ground.
 2. Start Bowling
 	* Press Space (or Bowl button) once to start the swing/spin meter.
 3. Set Power
